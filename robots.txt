@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jumbungus.github.io/jumbungus.jumbungus
+Sitemap: https://jumbungus.github.io/app/jumbungus.jumbungus
+Sitemap: https://jumbungus.github.io/assets/jumbungus.jumbungus
+Sitemap: https://jumbungus.github.io/css/jumbungus.jumbungus
+Sitemap: https://jumbungus.github.io/includes/jumbungus.jumbungus
+Sitemap: https://jumbungus.github.io/item/jumbungus.jumbungus
+Sitemap: https://jumbungus.github.io/src/jumbungus.jumbungus
